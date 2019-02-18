@@ -1,0 +1,8 @@
+Algorithm for the program.
+
+
+1. assign two variables to 999 (largest 3 digit number)
+2. loop from 999 to 0 and nest the same loop second time decresing corresponding value at a time.
+3. multiply current values. 
+4. if the value is palindrome return the value
+5. else decrease the values and run same login until any value is returned or program ends.
